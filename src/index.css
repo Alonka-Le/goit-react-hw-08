@@ -32,7 +32,7 @@ body {
   place-items: center;
   width: 100%;
   min-height: 100vh;
-  background-image: url(assets/OIG1.jpg);
+  /* background: no-repeat url(assets/OIG1.jpg); */
 }
 
 h1 {
