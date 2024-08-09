@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.list {
+  color: black;
+  background-color: #b5dbfa99;
+  padding: 10px 5px;
+  border-radius: 10px;
+}

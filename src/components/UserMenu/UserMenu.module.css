@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  gap: 18px;
+}
+
+.username {
+  font-size: 28px;
+  color: rgb(244, 244, 244);
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  font-style: oblique;
+  margin-top: 20px;
+}
+.username span {
+  color: rgb(198, 228, 255);
+}
+.btn {
+  height: 30px;
+  margin-top: 28px;
+  margin-right: 40px;
+}
